@@ -17,8 +17,8 @@
     <!-- 타이틀 텍스트 -->
     <text x="0" y="55"
           font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, sans-serif"
-          font-size="18"
-          font-weight="700"
+          font-size="16"
+          font-weight="500"
           fill="#111111">
       서덕민 SC
     </text>
